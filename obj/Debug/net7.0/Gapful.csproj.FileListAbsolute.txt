@@ -1,0 +1,15 @@
+/home/cade/Projects/Gapful/bin/Debug/net7.0/Gapful
+/home/cade/Projects/Gapful/bin/Debug/net7.0/Gapful.deps.json
+/home/cade/Projects/Gapful/bin/Debug/net7.0/Gapful.runtimeconfig.json
+/home/cade/Projects/Gapful/bin/Debug/net7.0/Gapful.dll
+/home/cade/Projects/Gapful/bin/Debug/net7.0/Gapful.pdb
+/home/cade/Projects/Gapful/obj/Debug/net7.0/Gapful.csproj.AssemblyReference.cache
+/home/cade/Projects/Gapful/obj/Debug/net7.0/Gapful.GeneratedMSBuildEditorConfig.editorconfig
+/home/cade/Projects/Gapful/obj/Debug/net7.0/Gapful.AssemblyInfoInputs.cache
+/home/cade/Projects/Gapful/obj/Debug/net7.0/Gapful.AssemblyInfo.cs
+/home/cade/Projects/Gapful/obj/Debug/net7.0/Gapful.csproj.CoreCompileInputs.cache
+/home/cade/Projects/Gapful/obj/Debug/net7.0/Gapful.dll
+/home/cade/Projects/Gapful/obj/Debug/net7.0/refint/Gapful.dll
+/home/cade/Projects/Gapful/obj/Debug/net7.0/Gapful.pdb
+/home/cade/Projects/Gapful/obj/Debug/net7.0/Gapful.genruntimeconfig.cache
+/home/cade/Projects/Gapful/obj/Debug/net7.0/ref/Gapful.dll
