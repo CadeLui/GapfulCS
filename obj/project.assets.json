@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cade/Projects/Gapful/Gapful.csproj",
+      "projectUniqueName": "/home/cade/Projects/GapfulCS/Gapful.csproj",
       "projectName": "Gapful",
-      "projectPath": "/home/cade/Projects/Gapful/Gapful.csproj",
+      "projectPath": "/home/cade/Projects/GapfulCS/Gapful.csproj",
       "packagesPath": "/home/cade/.nuget/packages/",
-      "outputPath": "/home/cade/Projects/Gapful/obj/",
+      "outputPath": "/home/cade/Projects/GapfulCS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/cade/.nuget/NuGet/NuGet.Config"

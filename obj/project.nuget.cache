@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qY+yc6qdVsTYNB3eyQYa0BANCcTH5Bx52fRCV0QGrSmnZswbu7XUhlpfFOlxMlTNWgRiAuc9eIGSpSPJCIagIw==",
+  "dgSpecHash": "8aCTq6VZdDXzbwAFtcziuZELtb6oRje9mxcrxo1nIYO3G0t4Zy62Uz32U7akjEEb3xuhluH1rmwKlU4tw7Y3CQ==",
   "success": true,
-  "projectFilePath": "/home/cade/Projects/Gapful/Gapful.csproj",
+  "projectFilePath": "/home/cade/Projects/GapfulCS/Gapful.csproj",
   "expectedPackageFiles": [
     "/home/cade/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
   ],
